@@ -29,5 +29,5 @@ Summer 2026 AI/ML study with Python, C++, PyTorch and TT-Forge.
 
 ## Weekly Logs
 
-### Week 1
-- Python Basics
+### Week 1 6/21
+- Python Basics & AI System
